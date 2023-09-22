@@ -2,7 +2,8 @@
 Mobile Application for Creating a Positive Impact on the Environment through Circular Economy. <br/>
 This mobile application was used as a thesis project at the University of Colima.
 
-App developed with React Native on the [Expo](https://expo.dev/) site
+App developed with React Native on the [Expo](https://expo.dev/) site <br/>
+You can see the prototype here: https://snack.expo.dev/@josejulian27/mercurio_apptesisv4 
  
 ## Contributors 📬
 
