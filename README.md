@@ -3,6 +3,7 @@ Mobile Application for Creating a Positive Impact on the Environment through Cir
 This mobile application was used as a thesis project at the University of Colima.
 
 App developed with React Native on the [Expo](https://expo.dev/) site <br/>
+You can see the project here: https://snack.expo.dev/@josejulian27/mercurio_apptesisv4
  
 ## Contributors 📬
 
